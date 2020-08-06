@@ -1,0 +1,20 @@
+Taking from github and working:
+•	Install Node js Latest
+https://nodejs.org/en/download/
+•	Install Git
+https://gitforwindows.org/
+•	Open git bash to check below commands to confirm whether it is installed.
+o	node -v
+o	npm -v
+It will show up version for you
+•	Install Angular CLI
+Use below command in git bash
+npm install -g @angular/cli
+•	Create a Folder in your system for your project.
+•	Open git bash and change your directory to that folder using cd command
+Enter the following commands
+•	git init
+•	git remote add origin "https://github.com/codebrigade2020/ECWM.git"
+•	git pull origin master
+•	npm install
+•	ng serve --open
