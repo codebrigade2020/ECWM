@@ -5,7 +5,7 @@ https://nodejs.org/en/download/
 https://gitforwindows.org/
 •	Open git bash to check below commands to confirm whether it is installed.
 o	node -v
-o	npm -v 
+o	npm -v  
 It will show up version for you
 •	Install Angular CLI
 Use below command in git bash
